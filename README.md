@@ -8,7 +8,7 @@ Teknologi yang digunakan diantaranya:
 - Slick JS: Untuk tampilan galeri yang halus dan menarik.
 - Firebase: Menyediakan backend yang aman dan efisien untuk pengelolaan data.
 - AOS: Animasi yang menarik untuk meningkatkan tampilan dan nuansa situs.
-
+ 
 Apa yang dapat Anda temukan di web ini:
 - Text Anonim: Bagian ini memungkinkan pengguna untuk berinteraksi dengan informasi kelas tanpa harus mengungkapkan identitas mereka.
 - Gallery: Menampilkan gambar-gambar menarik yang terkait dengan kelas kami.
