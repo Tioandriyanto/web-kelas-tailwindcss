@@ -5,7 +5,7 @@ Teknologi yang digunakan diantaranya:
 - React JS: Membangun antarmuka pengguna yang responsif dan interaktif.
 - MUI: MUI (Material-UI) digunakan untuk mendesain antarmuka dengan komponen Material Design yang indah.
 - Tailwind CSS: Memastikan tampilan dan gaya yang modern dan fleksibel.
-- Slick JS: Untuk tampilan galeri yang halus dan menarik. 
+- Slick JS: Untuk tampilan galeri yang halus dan menarik.
 - Firebase: Menyediakan backend yang aman dan efisien untuk pengelolaan data.
 - AOS: Animasi yang menarik untuk meningkatkan tampilan dan nuansa situs.
  
